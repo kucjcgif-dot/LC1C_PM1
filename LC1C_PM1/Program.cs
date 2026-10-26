@@ -1,4 +1,4 @@
 
-﻿Console.WriteLine("Hello,conflict!");
+﻿Console.WriteLine("Hello,clone"); //cloneの説明用
 
 
